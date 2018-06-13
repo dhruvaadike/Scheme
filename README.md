@@ -1,2 +1,2 @@
-# Scheme Lab
-Programs wriiten in the scheme(lisp) language
+# Programming Lab
+Programs written in Scheme language
